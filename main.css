@@ -5,18 +5,18 @@ text-align: center;
 width: 100%;
 background-color:tan;
 }
-title{ font-size-adjust: ariel 
+.title{ font-size-adjust: ariel 
 }
 
 
 h1 {font-size: 70px;
 }
 
-head{font-family: ariel;
+.head{font-family: ariel;
 font-size: 24px;}
 
 
-h2 {font-family: Palatino, 'palatino linotype', serif;
+.h2 {font-family: Palatino, 'palatino linotype', serif;
 color: blue;}
 
 
@@ -24,7 +24,7 @@ p {font-family: ariel;
 text-align: center;}
 
 
-h3{font-family: Palatino, 'palatino linotype', serif;
+.h3{font-family: Palatino, 'palatino linotype', serif;
 	color:blue;}
 
 		p{font-size-adjust: 12px}
@@ -36,5 +36,8 @@ h4{font-family: Palatino, 'palatino linotype', serif;
 
 
 img{text-align: center}
+
+
+.parkway{color: red;}
 
 
